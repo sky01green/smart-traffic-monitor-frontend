@@ -2732,6 +2732,13 @@ section {
   height: 780px;
 }
 
+#notif3
+{
+  margin-top: -2%;
+  width: 360px;
+  height: 750px;
+}
+
 .device-frame
 {
   display: flex;
@@ -2764,7 +2771,7 @@ section {
   }
 }
 
-#test-1
+#test-1, #test-2, #test-3
 {
   height: 100vh;
 }
